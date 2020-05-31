@@ -1,8 +1,6 @@
 import React, { useState, useEffect } from "react";
 import api from './services/api';
 
-import { uuid } from 'uuid';
-
 import "./styles.css";
 
 function App() {
